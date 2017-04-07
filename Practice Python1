@@ -1,0 +1,6 @@
+# Exercise1: Character Input
+
+name=input("Enter your Name")
+age=int(input("Your Age"))
+year_to_turn100=100-age
+print ("hey ", name," !! You will be 100 years old in ", year_to_turn100," years")
